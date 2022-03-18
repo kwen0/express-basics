@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/kwen0/express-basics#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "moment": "^2.29.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
